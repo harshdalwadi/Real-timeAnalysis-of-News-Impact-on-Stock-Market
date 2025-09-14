@@ -20,8 +20,8 @@ We leverage two key datasets for this analysis:
 These datasets provide valuable insights into how major news events impact stock movements.
 
 ### 📂 Data Files  
-- `news_headlines.csv` - Contains historical news headlines.  
-- `djia_stock_prices.csv` - Stock market prices over time.  
+- `RedditNews.csv` - Contains historical news headlines.  
+- `upload_DJIA_table.csv` - Stock market prices over time.  
 
 ---
 
