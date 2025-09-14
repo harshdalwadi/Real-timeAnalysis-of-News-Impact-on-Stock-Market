@@ -1,12 +1,12 @@
 # 📊 Real-Time Analysis of News Impact on Stock Market  
 
-This repository contains data analysis, visualization, and sentiment-based forecasting of the **stock market's response to news events**.  
+This repository contains data analysis, visualisation, and sentiment-based forecasting of the **stock market's response to news events**.  
 
 ---
 
 ## 📌 Project Overview  
-This project explores how **news sentiment influences stock prices** by analyzing **historical news headlines** and **stock market data**.  
-We use **Apache Beam** for large-scale data processing and **Grafana** for interactive visualization.  
+This project explores how **news sentiment influences stock prices** by analysing **historical news headlines** and **stock market data**.  
+We use **Machine Learning** for large-scale data processing and **Grafana** for interactive visualisation.  
 
 Initially, we planned to use **Amazon Kinesis** for real-time analysis but later switched to **historical analysis** to derive deeper insights.  
 
@@ -29,8 +29,8 @@ These datasets provide valuable insights into how major news events impact stock
 
 ### 1️⃣ Data Cleaning & Preprocessing  
 - Removed irrelevant news articles unrelated to financial markets.  
-- Standardized timestamps for accurate **time-series analysis**.  
-- **Tokenized and preprocessed** news headlines for sentiment analysis.  
+- Standardised timestamps for accurate **time-series analysis**.  
+- **Tokenised and preprocessed** news headlines for sentiment analysis.  
 
 ### 2️⃣ Sentiment Analysis & Feature Engineering  
 - Applied **Natural Language Processing (NLP)** techniques.  
@@ -52,7 +52,7 @@ These datasets provide valuable insights into how major news events impact stock
 ---
 
 ## 📈 Key Findings  
-✔ **Negative sentiment in news often correlates with stock declines.**  
+✔ **Negative sentiment in the news often correlates with stock declines.**  
 ✔ **Major financial events significantly impact stock prices.**  
 ✔ **Sentiment-driven stock forecasting has strong predictive potential.**  
 ✔ **Real-time tracking can enhance trading strategies for investors.**  
